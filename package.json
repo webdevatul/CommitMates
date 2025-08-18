@@ -1,0 +1,21 @@
+{
+  "name": "commitmates",
+  "version": "1.0.0",
+  "description": "Swipe. Match. Code. Find your perfect coding  partner on CommitMates",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "mongodb",
+    "expressjs"
+  ],
+  "author": "Atul Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
